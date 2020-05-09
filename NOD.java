@@ -1,4 +1,4 @@
-package com.javarush.task.task14.task1420.Javarash;
+
 
 /* 
 НОД
